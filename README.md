@@ -10,7 +10,7 @@
 </details>
 
 <details>
-  <summary> GitHub Stats</summary>
+  <summary>: zap : GitHub Stats</summary>
 
   <img align="left" alt="Swagato's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=trailblazergt&show_icons=true&hide_border=true" />
 
