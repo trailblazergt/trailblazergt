@@ -7,13 +7,12 @@
 [<img align="left" alt="Swagato | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 </br>
 
-</details>
 
-<details>
+
+
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Swagato's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=trailblazergt&show_icons=true&hide_border=false" />
+  <img align="left" alt="Swagato's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=trailblazergt&show_icons=true&hide_border=true" />
 
-</details>
 
 [instagram]: https://instagram.com/__trailblazer___
