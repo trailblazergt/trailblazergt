@@ -1,4 +1,4 @@
-### Hi there, I'm Swagato - aka trailblazergt 🤗
+### Hi there, I'm Swagato Patra - aka trailblazergt 🤗
 
 
 ## I'm a student, currently pursuing B.Tech in Inforamation Technology! I am a Cyber Security Enthusiast.
