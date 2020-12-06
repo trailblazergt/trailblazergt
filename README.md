@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Swagato - aka trailblazergt 👋
 
-<!--
-**trailblazergt/trailblazergt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a student, currently pursuing B.Tech in Inforamation Technology! I am a Cyber Security Enthusiast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[<img align="left" alt="Swagato | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Swagato's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=trailblazergt&show_icons=true&hide_border=true" />
+
+</details>
+
+[instagram]: https://instagram.com/__trailblazer___
