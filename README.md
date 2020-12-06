@@ -6,7 +6,9 @@
 ### Connect with me:
 [<img align="left" alt="Swagato | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 </br>
+### Spotify Playing 🎧
 
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/1d4nrjf8cpm8wbfvr6732bt5d)
 
 
 
