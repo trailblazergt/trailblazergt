@@ -17,14 +17,13 @@
  [<img align="left" alt="Nmap" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.liquidweb.com%2Fkb%2Fusing-nmap-pro-tips-and-tricks%2F&psig=AOvVaw0-OBVUo9G8ebAZDaTsygAy&ust=1607405778017000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIieuaeTu-0CFQAAAAAdAAAAABAD" />][webdevplaylist]
  [<img align="left" alt="Metasploit Framework" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fmetasploit&psig=AOvVaw30zXqlnUZmRDqmPrJ-Q9fN&ust=1607405843496000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCZwcWTu-0CFQAAAAAdAAAAABAD" />][webdevplaylist]
 
-</details>
 
-<details>
+
+
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Swagato's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=trailblazergt&show_icons=true&hide_border=true" />
 
-</details>
 
 [instagram]: https://instagram.com/__trailblazer___
 [youtube]: https://www.youtube.com/channel/UCxB_HzVX769cfG8WT0wYcGQ?view_as=subscriber
