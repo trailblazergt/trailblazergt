@@ -27,3 +27,6 @@
 </details>
 
 [instagram]: https://instagram.com/__trailblazer___
+[youtube]: https://www.youtube.com/channel/UCxB_HzVX769cfG8WT0wYcGQ?view_as=subscriber
+[twitter]: https://twitter.com/Trailblazer_GT
+
