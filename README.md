@@ -1,7 +1,7 @@
 ---
 ### Hi there, I'm Swagato - aka trailblazergt!
 
-- I'm a student, currently pursuing B.Tech in Inforamation Technology! 
+- I'm a student, currently pursuing B.Tech in Information Technology! 
 - I am a Cyber Security Enthusiast.
 - I’m currently learning threat analysis and mitigation.
 - I have a little experience on SQLi using tautology.
