@@ -5,6 +5,7 @@
 - I’m currently learning threat analysis and mitigation.
 - I have a little experience on SQLi using tautology.
 - BTW my current favourite linux distro is Pop!_OS 
+---
 ### Connect with me:
 [<img align="left" alt="Swagato Patra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Swagato Patra | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
