@@ -1,3 +1,4 @@
+---
 ### Hi there, I'm Swagato - aka trailblazergt!
 
 - I'm a student, currently pursuing B.Tech in Inforamation Technology! 
