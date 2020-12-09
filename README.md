@@ -29,7 +29,6 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Swagato's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=trailblazergt&show_icons=true&hide_border=true" />
----
 
 [instagram]: https://instagram.com/__trailblazer___
 [youtube]: https://www.youtube.com/channel/UCxB_HzVX769cfG8WT0wYcGQ?view_as=subscriber
