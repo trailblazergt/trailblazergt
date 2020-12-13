@@ -1,5 +1,5 @@
 ---
-### Hi there, I'm Swagato - aka trailblazergt!
+### Hi there, I'm Swagato
 
 - I'm a student, currently pursuing B.Tech in Information Technology! 
 - I am a Cyber Security Enthusiast.
