@@ -2,7 +2,7 @@
 ### Hi there, I'm Swagato
 
 - I'm a student, currently pursuing B.Tech in Information Technology! 
-- I am a Cyber Security Enthusiast and an IT engineer
+- I am a Cyber Security Enthusiast.
 - I’m currently learning threat analysis and mitigation.
 - I have a bit experience in SQLi using tautology.
 - BTW my current favourite linux distro is Pop!_OS 
