@@ -5,7 +5,7 @@
 - I am a Cyber Security Enthusiast.
 - I’m currently learning threat analysis and mitigation.
 - I have a bit experience in SQLi using tautology.
-- BTW my current favourite linux distro is Pop!_OS 
+- BTW my current favourite linux distro is Garuda Linux! 
 ---
 ### Connect with me:
 [<img align="left" alt="Swagato Patra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
