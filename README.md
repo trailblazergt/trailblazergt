@@ -3,7 +3,7 @@
 
 - I'm a student, currently pursuing B.Tech in Information Technology! 
 - I am a Cyber Security Enthusiast.
-- I’m currently learning threat analysis and mitigation.
+- I’m currently focusing on pen testing.
 - I have a bit experience in SQLi using tautology.
 - BTW my current favourite linux distro is Garuda Linux! 
 ---
