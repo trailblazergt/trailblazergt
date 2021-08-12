@@ -4,8 +4,9 @@
 - I'm a student, currently pursuing B.Tech in Information Technology! 
 - I am a Cyber Security Enthusiast.
 - I’m currently focusing on pen testing.
+- Successfully completed the internship with ANZ and Forage working as a Social Media Threat analysis and Digital Forensic analyst.
 - I have a bit experience in SQLi using tautology.
-- BTW my current favourite linux distro is Garuda Linux! 
+- BTW my current favourite linux distro is Pop_OS! 
 ---
 ### Connect with me:
 [<img align="left" alt="Swagato Patra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
